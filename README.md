@@ -1,38 +1,6 @@
 # prophet-challenge
 Time Series Prediction
 
-Skip To Content
-Dashboard
-Ashok
-Account
-Dashboard
-Courses
-Calendar
-Inbox
-History
-Studio
-Info
-Bootcamp: CU-VIRT-AI-PT-06-2024-U-LOLC-MWTHAssignmentsModule 8 Challenge
-Jun-2024
-Home
-Grades6
-Syllabus
-Modules
-Student Support
-Attendance
-Career Services
-Billing
-Zoom
-Quizzes
-Xpert Learning Assistant
-Tutoring Sessions
-Module 8 Challenge
-Due Thursday by 11:59pm Points 100 Submitting a text entry box or a website url
-Background
-You’re a growth analyst at Mercado LibreLinks to an external site.. With over 200 million users, Mercado Libre is the most popular e-commerce site in Latin America. You've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
-
-The instructions for this Challenge are divided into four steps, as follows:
-
 Step 1: Find unusual patterns in hourly Google search traffic.
 
 Step 2: Mine the search traffic data for seasonality.
